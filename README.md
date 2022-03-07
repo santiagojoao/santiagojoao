@@ -1,11 +1,10 @@
 Olá, eu sou João Santiago
 
 Hoje trabalho com Gestão de Produção, porém sou entusiasta de tecnologia. No momento, estou aprendendo entre outros: Python, Javascript, HTML, CSS, Ethical Hacking, Linux, etc - no intuito que, num futuro próximo, seja a minha primeira área de atuação.
-
 <div align="center">
   <a href="https://github.com/santiagojoao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagojoao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagojoao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santiagojoao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagojoao&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Js-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
