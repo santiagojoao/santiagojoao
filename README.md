@@ -1,6 +1,6 @@
 Olá, eu sou João Santiago
 
-Hoje trabalho com Gestão de Produção, porém sou entusiasta de tecnologia. No momento, estou aprendendo entre outros: Python, Javascript, HTML, CSS, Ethical Hacking, Linux, etc - no intuito que, num futuro próximo, seja a minha primeira área de atuação.
+Hoje trabalho com Gestão de Produção, porém sou entusiasta de tecnologia. No momento, estou aprendendo entre outros: Python, Javascript, HTML, CSS, Ethical Hacking, Linux, etc - no intuito que, num futuro próximo, seja a minha primeira e única área de atuação.
 <div align="center">
   <a href="https://github.com/santiagojoao">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=santiagojoao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
